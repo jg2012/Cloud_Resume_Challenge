@@ -1,0 +1,40 @@
+body {
+  background-color: #F8CFB4;
+}
+
+.center{
+
+  margin-left: auto;
+  maright-right auto;
+width: 50%;
+}
+
+title{
+  color: #1F4E79;
+  margin-left: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #1F4E79;
+  margin-left: 20px;
+  text-align: center;
+}
+
+h3,{color: #1F4E79;
+  margin-left: 18px;
+  text-align: left;
+}
+
+p{
+  color: #1F4E79;
+  margin-left: 14px;
+  text-align: left;
+}
+
+ul{
+  margin-left: 20px;
+  text-align: center;
+}
+
+
